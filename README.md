@@ -1,8 +1,8 @@
 # Elasticsearch Search Tutorial
 
 ### Additional Reading - 
-1. PAGINATION - https://www.elastic.co/search-labs/tutorials/search-tutorial/full-text-search/pagination
-2. FILTERS - https://www.elastic.co/search-labs/tutorials/search-tutorial/full-text-search/filters
+1. Pagination - https://www.elastic.co/search-labs/tutorials/search-tutorial/full-text-search/pagination
+2. Filters - https://www.elastic.co/search-labs/tutorials/search-tutorial/full-text-search/filters
 
 
 ### Production Details - 
