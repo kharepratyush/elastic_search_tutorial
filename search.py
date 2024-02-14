@@ -54,3 +54,7 @@ class Search:
     ## The query_args argument captures all the keyword arguments provided to the method, and then passes-them through to the es.search() method.
     def search(self, **query_args):
         return self.es.search(index='test_index', **query_args)
+
+    ## To render individual documents, retrieve_document() uses the get() method of the Elasticsearch client
+    def retrieve_document(self, id):
+        return self.es.get(index='my_documents', id=id)
